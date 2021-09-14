@@ -3,7 +3,7 @@
 # SCRIPT : DOWNLOAD AND INSTALL IPtoSAT
 # ###########################################
 #
-# Command: wget wget https://raw.githubusercontent.com/tarekhanfy/Download/main/IPtoSAT/installer.sh -qO - | /bin/sh
+# Command: wget wget https://raw.githubusercontent.com/tarekzoka/Download/main/IPtoSAT/installer.sh -qO - | /bin/sh
 #
 # ###########################################
 
@@ -12,7 +12,7 @@
 TMPDIR='/tmp'
 VERSION='1.8'
 PACKAGE='enigma2-plugin-extensions-iptosat'
-MY_URL='https://raw.githubusercontent.com/tarekhanfy/Download/main/IPtoSAT/'
+MY_URL='https://raw.githubusercontent.com/tarekzoka/Download/main/IPtoSAT/'
 
 ####################
 #  Image Checking  #
