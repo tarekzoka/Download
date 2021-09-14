@@ -3,7 +3,7 @@
 # SCRIPT : DOWNLOAD AND INSTALL IPtoSAT
 # ###########################################
 #
-# Command: wget wget https://raw.githubusercontent.com/tarekhanfy/main/IPtoSAT/installer.sh -qO - | /bin/sh
+# Command: wget wget https://raw.githubusercontent.com/tarekhanfy/Download/main/IPtoSAT/installer.sh -qO - | /bin/sh
 #
 # ###########################################
 
@@ -148,7 +148,7 @@ echo ""
 echo "***********************************************************************"
 echo "**                                                                    *"
 echo "**                       IPtoSAT    : $VERSION                             *"
-echo "**                       Uploaded by: MOHAMED_OS                      *"
+echo "**                       Uploaded by: TAREK                      *"
 echo "**                       Develop by : ZAKARIYA KHA                    *"
 echo "**  Support    : https://www.tunisia-sat.com/forums/threads/4171372/  *"
 echo "**                                                                    *"
