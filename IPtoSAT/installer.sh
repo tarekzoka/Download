@@ -3,7 +3,7 @@
 # SCRIPT : DOWNLOAD AND INSTALL IPtoSAT
 # ###########################################
 #
-# Command: wget wget https://raw.githubusercontent.com/tarekzoka/Download/main/IPtoSAT/installer.sh -qO - | /bin/sh
+# Command: wget wget https://raw.githubusercontent.com/tarek/Download/main/IPtoSAT/installer.sh -qO - | /bin/sh
 #
 # ###########################################
 
@@ -12,7 +12,7 @@
 TMPDIR='/tmp'
 VERSION='1.8'
 PACKAGE='enigma2-plugin-extensions-iptosat'
-MY_URL='https://raw.githubusercontent.com/tarekzoka/Download/main/IPtoSAT/'
+MY_URL='https://raw.githubusercontent.com/tarek/Download/main/IPtoSAT/'
 
 ####################
 #  Image Checking  #
@@ -148,7 +148,7 @@ echo ""
 echo "***********************************************************************"
 echo "**                                                                    *"
 echo "**                       IPtoSAT    : $VERSION                             *"
-echo "**                       Uploaded by: TAREK                      *"
+echo "**                       Uploaded by: MOHAMED_OS                      *"
 echo "**                       Develop by : ZAKARIYA KHA                    *"
 echo "**  Support    : https://www.tunisia-sat.com/forums/threads/4171372/  *"
 echo "**                                                                    *"
